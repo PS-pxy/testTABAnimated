@@ -1,0 +1,55 @@
+//
+//  PrefixHeader.pch
+//  testTABAnimated
+//
+//  Created by PS on 2021/2/26.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+
+//import "UIView+PSFrame.h"
+//#import "UIView+PSXib.h"
+//#import "UILabel+PSLabelH_W.h"
+//#import "UIColor+PSColor.h"
+//#import "UIButton+PSButtonCountDown.h"
+//#import "UIAlertController+PSAlert.h"
+//#import "NSString+PSTime.h"
+//#import "NSString+PSExtend.h"
+//#import "NSMutableArray+PSSort.h"
+//#import "UIImage+PSVideoImage.h"
+//#import "CAShapeLayer+SDCornerRadius.h"
+//#import "UIView+PSShadow.h"
+//#import "UIView+PSCornerRadius.h"
+//#import "UILabel+PSExtend.h"
+
+//#import "UIViewController+SJConfigureRotation.h"    //视频
+
+//#import "PSAFNetwork.h"
+#import <SDAutoLayout/SDAutoLayout.h>
+#import "Masonry.h"
+//#import "MBManager.h"
+#import "SDCycleScrollView.h"
+#import "MOFSPickerManager.h"
+#import "MJRefresh.h"
+#import "YYKit.h"
+#import <YYKit/YYImage.h>
+#import "UIImageView+CornerRadius.h"
+#import "UIImageView+WebCache.h"
+#import <SDWebImage/UIButton+WebCache.h>
+#import "UITableView+FDTemplateLayoutCell.h"
+#import <SJVideoPlayer/SJVideoPlayer.h>
+#import <SJBaseVideoPlayer/SJBaseVideoPlayer.h>
+#import "JPUSHService.h"
+#import "WXApi.h"
+#import "TZImagePickerController.h"
+#import "IQKeyboardManager.h"
+
+
+#import "TABAnimated.h"
+
+//#import "SDUserModel.h"
+//#import "SDUserInfoModel.h"
+
+#endif /* PrefixHeader_pch */
