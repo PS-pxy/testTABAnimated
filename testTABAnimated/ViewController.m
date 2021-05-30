@@ -86,10 +86,7 @@
     
     button.sd_layout.rightEqualToView(self.view).offset(-20).topEqualToView(self.view).offset(88).heightIs(30).widthIs(30);
     
-    
-    
-    
-//    self.view.backgroundColor = [UIColor greenColor];
+    self.view.backgroundColor = [UIColor greenColor];
     
 //    CGFloat chartViewWidth  = self.view.frame.size.width;
 //    CGFloat chartViewHeight = self.view.frame.size.height - 250;
